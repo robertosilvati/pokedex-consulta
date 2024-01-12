@@ -33,15 +33,15 @@ O projeto é construído utilizando as seguintes tecnologias:
    ```bash
    git clone https://github.com/seu-usuario/pokedex.git
 
-   Abra o arquivo index.html no seu navegador.
+  - Abra o arquivo index.html no seu navegador.
 
-    Utilize a barra de pesquisa para encontrar Pokémon pelo nome.
+   - Utilize a barra de pesquisa para encontrar Pokémon pelo nome.
 
-    Navegue entre os Pokémon utilizando os botões de navegação.
-    ```
+  -  Navegue entre os Pokémon utilizando os botões de navegação.
+    
 ## Contribuições
-
-    ```
-    Contribuições são bem-vindas! Sinta-se à vontade para abrir issues 
+   - Contribuições são bem-vindas! Sinta-se à vontade para abrir issues 
     e pull requests para melhorar este projeto.
-    ```
+## Código Aberto
+
+Este projeto é desenvolvido como código aberto, o que significa que o código-fonte está disponível para o público.
